@@ -1,0 +1,94 @@
+
+.slider-sec{
+    background-color: #F9F8FF;
+    
+}
+.slider-btn{
+    background-color: #8D84F9;
+    color: white;
+
+}
+.view-sec{
+    background-color: #8D84F9;
+    color: white;
+}
+.using-sec{
+    background-color: #F9F8FF;
+}
+.card-sec{
+    border-radius: 10px;
+    width:90%;
+    
+}
+.cerckle{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-color: #F9F8FF;
+   
+}
+.round-text{
+    line-height: 97px;
+    color:#000;
+    
+}
+.card-heading1{
+    color: black;
+    font-weight: 500;
+}
+.card-heading-2 p{
+    color: #777777;
+    font-weight: 400;
+    line-height: 50px;
+}
+.buy-now {
+    box-shadow: 0px 0px 11px -0.5px #0f0fae6e;
+    font-weight: 600;
+}
+.card-progemar{
+    box-shadow: 0px 0px 11px -0.5px #8484856e;
+    position: relative;
+}
+.progremar-mg {
+    position: absolute;
+    left: -24%;
+    top: -35%;
+    width: 100%;
+}
+.progremar-mg img{
+    width: 115px;
+
+}
+.website-btn{
+    box-shadow: 0px 0px 11px -0.5px #4f4f506e;
+}
+/* form */
+.form-main-sec{
+    background-color: #F9F8FF;
+    
+}
+.form-sec{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 11px -0.5px #00000030;
+
+}
+input[type="email"] {
+    width: 84%;
+    padding: 6px 10px;
+}
+input[type="text"] {
+    width: 42%;
+    padding: 6px 10px;
+    margin-right: 14px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+input[type="tel"] {
+    width: 39%;
+    padding: 6px 10px;
+}
+textarea {
+    width: 84%;
+    height: 128px;
+}
